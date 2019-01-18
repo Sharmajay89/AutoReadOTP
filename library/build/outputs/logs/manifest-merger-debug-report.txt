@@ -1,0 +1,35 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/cws/Documents/CWS_Project_WorkSpace/ORMRoomApp/library/src/main/AndroidManifest.xml:1:1-11:12
+INJECTED from /home/cws/Documents/CWS_Project_WorkSpace/ORMRoomApp/library/src/main/AndroidManifest.xml:1:1-11:12
+INJECTED from /home/cws/Documents/CWS_Project_WorkSpace/ORMRoomApp/library/src/main/AndroidManifest.xml:1:1-11:12
+	package
+		ADDED from /home/cws/Documents/CWS_Project_WorkSpace/ORMRoomApp/library/src/main/AndroidManifest.xml:2:5-24
+		INJECTED from /home/cws/Documents/CWS_Project_WorkSpace/ORMRoomApp/library/src/main/AndroidManifest.xml
+		INJECTED from /home/cws/Documents/CWS_Project_WorkSpace/ORMRoomApp/library/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/cws/Documents/CWS_Project_WorkSpace/ORMRoomApp/library/src/main/AndroidManifest.xml:1:11-69
+application
+ADDED from /home/cws/Documents/CWS_Project_WorkSpace/ORMRoomApp/library/src/main/AndroidManifest.xml:4:5-9:19
+	android:label
+		ADDED from /home/cws/Documents/CWS_Project_WorkSpace/ORMRoomApp/library/src/main/AndroidManifest.xml:7:9-41
+	android:icon
+		ADDED from /home/cws/Documents/CWS_Project_WorkSpace/ORMRoomApp/library/src/main/AndroidManifest.xml:6:9-45
+	android:allowBackup
+		ADDED from /home/cws/Documents/CWS_Project_WorkSpace/ORMRoomApp/library/src/main/AndroidManifest.xml:5:9-35
+	android:theme
+		ADDED from /home/cws/Documents/CWS_Project_WorkSpace/ORMRoomApp/library/src/main/AndroidManifest.xml:8:9-40
+uses-sdk
+INJECTED from /home/cws/Documents/CWS_Project_WorkSpace/ORMRoomApp/library/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/cws/Documents/CWS_Project_WorkSpace/ORMRoomApp/library/src/main/AndroidManifest.xml
+INJECTED from /home/cws/Documents/CWS_Project_WorkSpace/ORMRoomApp/library/src/main/AndroidManifest.xml
+INJECTED from /home/cws/Documents/CWS_Project_WorkSpace/ORMRoomApp/library/src/main/AndroidManifest.xml
+INJECTED from /home/cws/Documents/CWS_Project_WorkSpace/ORMRoomApp/library/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/cws/Documents/CWS_Project_WorkSpace/ORMRoomApp/library/src/main/AndroidManifest.xml
+		ADDED from /home/cws/Documents/CWS_Project_WorkSpace/ORMRoomApp/library/src/main/AndroidManifest.xml
+		INJECTED from /home/cws/Documents/CWS_Project_WorkSpace/ORMRoomApp/library/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/cws/Documents/CWS_Project_WorkSpace/ORMRoomApp/library/src/main/AndroidManifest.xml
+		ADDED from /home/cws/Documents/CWS_Project_WorkSpace/ORMRoomApp/library/src/main/AndroidManifest.xml
+		INJECTED from /home/cws/Documents/CWS_Project_WorkSpace/ORMRoomApp/library/src/main/AndroidManifest.xml
